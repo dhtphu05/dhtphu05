@@ -15,6 +15,13 @@
 </p>
 
 <p align="center">
+  <a href="mailto:dhtphu05@gmail.com"><img src="./assets/contact-email.svg" alt="Email: dhtphu05@gmail.com" height="38"></a>
+  <a href="https://linkedin.com/dhtphu05"><img src="./assets/contact-linkedin.svg" alt="LinkedIn: dhtphu05" height="38"></a>
+  <a href="https://t.me/dhtphu05"><img src="./assets/contact-telegram.svg" alt="Telegram: @dhtphu05" height="38"></a>
+  <a href="https://x.com/dhtphu05"><img src="./assets/contact-x.svg" alt="X: @dhtphu05" height="38"></a>
+</p>
+
+<p align="center">
   <a href="#-activity-highlights">Activity</a> &nbsp; · &nbsp;
   <a href="#-selected-builds">Selected builds</a> &nbsp; · &nbsp;
   <a href="#-my-toolbox">My toolbox</a> &nbsp; · &nbsp;

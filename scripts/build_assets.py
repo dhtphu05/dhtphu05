@@ -139,6 +139,7 @@ def hero(mobile=False):
 (ASSETS/'hero-mobile.svg').write_text(hero(True),encoding='utf-8')
 
 BADGES=[('nodejs','Node.js',118,MINT),('python','Python',114,PEACH),('fastapi','FastAPI',126,MINT),('nestjs','NestJS',114,'#ffacc4'),('react','React',104,'#99deff'),('nextjs','Next.js',126,WHITE),('openai','OpenAI',114,MINT),('llm','LLM integrations',226,PURPLE),('notebooks','Notebooks',150,PEACH)]
+BADGES += [('contact-email','Email',104,MINT),('contact-linkedin','LinkedIn',140,'#99deff'),('contact-telegram','Telegram',140,'#99deff'),('contact-x','X',64,PURPLE)]
 for filename,label,width,color in BADGES:
  svg=start(width,38,label,label)+f'<path d="M4 0H{width-4}V4H{width}V34H{width-4}V38H4V34H0V4H4Z" fill="#20263b"/>'
  svg+=rect(11,15,7,7,color)+text(27,24,label,14,color)+ '</svg>'
