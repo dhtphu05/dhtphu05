@@ -4,6 +4,10 @@
 </picture>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhtphu05&amp;label=PROFILE+VIEWS&amp;color=7957d5&amp;style=for-the-badge" alt="Profile views — counts page views, including repeat visits">
+</p>
+
+<p align="center">
   <strong>Doan Hoang Thien Phu</strong><br>
   Software engineer &amp; founder building <a href="https://github.com/dhtphu05/viraldy"><strong>Viraldy</strong></a>.<br>
   Turning real-world problems into useful <strong>SaaS products</strong> for<br>
@@ -11,9 +15,23 @@
 </p>
 
 <p align="center">
+  <a href="#-activity-highlights">Activity</a> &nbsp; · &nbsp;
   <a href="#-selected-builds">Selected builds</a> &nbsp; · &nbsp;
   <a href="#-my-toolbox">My toolbox</a> &nbsp; · &nbsp;
   <a href="https://github.com/dhtphu05?tab=repositories">Explore my repositories ↗</a>
+</p>
+
+## 🟩 Activity highlights
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:9affce/dhtphu05">
+    <img src="https://ghchart.xqsit94.in/light:27875d/dhtphu05" width="100%" alt="dhtphu05's GitHub contribution heatmap over the past year">
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Contribution activity over the past year · <a href="https://github.com/dhtphu05?tab=overview">View on GitHub ↗</a></sub>
 </p>
 
 ## 👾 The player behind the pixels
