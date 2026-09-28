@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="226" height="38" viewBox="0 0 226 38" role="img" aria-labelledby="title desc">
+<title id="title">LLM integrations</title><desc id="desc">LLM integrations</desc>
+<style>
+@keyframes sparkle { 0%,65%,100% {opacity:1} 75%,90% {opacity:.35} }
+@keyframes hover { 0%,100% {transform:translateY(0)} 50% {transform:translateY(-6px)} }
+.spark {animation:sparkle 4.8s steps(1,end) infinite}
+.buddy {animation:hover 3.6s steps(3,end) infinite}
+@media (prefers-reduced-motion: reduce) { .spark,.buddy {animation:none} }
+</style><path d="M4 0H222V4H226V34H222V38H4V34H0V4H4Z" fill="#20263b"/><rect x="11" y="15" width="7" height="7" fill="#b6a1ff" /><text x="27" y="24" fill="#b6a1ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="400" >LLM integrations</text></svg>
